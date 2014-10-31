@@ -5,7 +5,6 @@ import list.*;
 
 /**
  * EdgeList is a DList of EdgeNodes
- * @author Kevin
  *
  */
 class EdgeList extends DList {
