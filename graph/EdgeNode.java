@@ -4,7 +4,6 @@ package graph;
 import list.*;
 /**
  * A DListNode for edge lists. 
- * @author Kevin
  *
  */
 class EdgeNode extends DListNode{
