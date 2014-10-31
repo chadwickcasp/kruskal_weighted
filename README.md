@@ -28,4 +28,4 @@ Kruskal - Actual implementation of Kruskal's algorithm making use of hashtables 
 KruskalEdge - The ADT used by Kruskal that keeps track of the edges in the graph
 
 
-The rest of the routines act as either parent classes for the above classes, or test programs
+ - The rest of the routines act as either parent classes for the above classes, or test programs
